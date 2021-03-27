@@ -135,7 +135,7 @@ h6 {
   color: #212121;
 }
 .content-hello{
-  background-image:url(../img/header.png) no-repeat center;
+  background: url(../img/header.png) no-repeat center;
   max-height: 660px;
   padding: 180px 0 190px 0;
   color: #fff;
